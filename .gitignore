@@ -1,0 +1,19 @@
+*.class
+
+out/
+# Package Files #
+*.war
+*.ear
+.classpath
+.project
+.settings
+{{LOG_DIR}}
+/target/
+/.settings
+/.classpath
+/.project
+/target
+/test-output
+/.idea
+*.iml
+*.DS_Store
